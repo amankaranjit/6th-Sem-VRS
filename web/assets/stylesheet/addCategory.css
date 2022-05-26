@@ -1,0 +1,9 @@
+.add{
+    width: 500px;
+    height:150px;
+    border-radius: 7px ;
+}
+input[type=text],[type=submit]{
+    margin-top: 20px;
+    /*color:white;*/
+}

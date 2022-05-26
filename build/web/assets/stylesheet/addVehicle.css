@@ -1,0 +1,10 @@
+.add{
+    width: 500px;
+/*    height:150px;*/
+    border-radius: 7px ;
+    padding-bottom: 10px;
+}
+input[type=text],[type=file],[type=submit]{
+    margin-top: 20px;
+    /*color:white;*/
+}
